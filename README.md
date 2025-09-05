@@ -1,1 +1,1 @@
-# M2A3_639401
+Reemplace los div con etiquetas semánticas, también agregue el post dentro de un <article> para que cumpla con la estructura semántica a la vez que agregue los títulos en los h1 y h2 en vez de <strong>, marque la fecha con <time datetime="">, la cita la converti en <blockquote> con <cite> y la información de de contacto la puse en <address>
